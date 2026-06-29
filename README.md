@@ -118,8 +118,8 @@ python data_preparation.py
 # 6. Run the dashboard
 streamlit run dashboard/app.py
 
-sales-intelligence-dashboard/
 📁 Project Structure
+sales-intelligence-dashboard/
 │
 ├── 📁 data/
 │   ├── 📁 raw/
