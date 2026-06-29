@@ -1,0 +1,19 @@
+[theme]
+primaryColor = "#667eea"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+runOnSave = true
+
+# THIS IS THE KEY SETTING - Disables default sidebar
+[client]
+showSidebarNavigation = false
+
+[runner]
+magicEnabled = false
