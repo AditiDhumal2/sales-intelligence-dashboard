@@ -119,6 +119,7 @@ python data_preparation.py
 streamlit run dashboard/app.py
 
 sales-intelligence-dashboard/
+📁 Project Structure
 │
 ├── 📁 data/
 │   ├── 📁 raw/
